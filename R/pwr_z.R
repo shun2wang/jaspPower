@@ -194,7 +194,7 @@
   str <- paste(
     "<p>",
     gettext(
-      "The power contour plot shows how the sensitivity of the test changes with the hypothetical effect size and the sample sizes in the design. As we increase the sample sizes, smaller effect sizes become reliably detectable."
+      " This is a LaTeX formula:$e=mc^2$ inline and This is block level katex: $$\\tilde{a}$$ $$\\Overrightarrow{AB}$$ $$\\begin{vmatrix}a & b \\\\ c & d \\end{vmatrix}$$ $$f(x)$$;The power contour plot shows how the sensitivity of the test changes with the hypothetical effect size and the sample sizes in the design. As we increase the sample sizes, smaller effect sizes become reliably detectable."
     ),
     "</p>",
     "<p>",

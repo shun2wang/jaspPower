@@ -11,4 +11,4 @@ name: i18n-check
 
 jobs:
   i18n-check:
-    uses: shun2wang/jasp-actions/.github/workflows/i18nCheck.yml@checkPlaceholderNumbers
+    uses: shun2wang/jasp-actions/.github/workflows/i18nCheck.yml@testi18n

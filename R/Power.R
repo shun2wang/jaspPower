@@ -1,3 +1,4 @@
+x <- gettext("")
 Power <- function(jaspResults, dataset, options) {
   options <- .checkOptions(options)
 

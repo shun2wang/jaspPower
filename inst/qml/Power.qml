@@ -28,7 +28,7 @@ Form
     name: "test"
     id:   test
     indexDefaultValue: 0
-    label: qsTr("Statistical test:")
+    label: qsTr("")
     values: [
       { label: "Independent Samples T-Test", value: "independentSamplesTTest" },
       { label: "Paired Samples T-Test",  value: "pairedSamplesTTest"          },
